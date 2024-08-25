@@ -78,6 +78,4 @@ File Outputs:
 If the `dump` argument is set to true, a detailed step-by-step log of the search process is written to `dump.txt`.
 
 
-Name: Tejo Sumanth Pavuluri
-Student ID: 1002067830
 
